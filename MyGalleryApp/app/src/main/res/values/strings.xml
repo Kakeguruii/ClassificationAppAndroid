@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGalleryApp</string>
+    <string name="tab_photos">Фото</string>
+    <string name="tab_albums">Альбомы</string>
+</resources>
