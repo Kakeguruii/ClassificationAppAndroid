@@ -12,4 +12,5 @@ ___
 + Дополнительные инструменты
   + [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - хранение и управление данными, связанных с UI
   + [Room](https://developer.android.com/training/data-storage/room) - реализует уровень абстракции над базой данных SQLite
+  + [TensorFlow Lite](https://www.tensorflow.org/lite?hl=ru) - библиотека для развертывания моделей на мобильных устройствах
 + Архитектура MVVM
